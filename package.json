@@ -1,0 +1,12 @@
+{
+  "name": "movie-ticket-booking",
+  "version": "1.0.0",
+  "description": "Movie Ticket Booking App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
